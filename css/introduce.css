@@ -224,6 +224,25 @@ span {
   padding-right: 60px;
 }
 
+.table-title {
+  display: flex;
+  font-size: 1.4rem;
+}
+
+.table-1 {
+padding-right: 200px;
+}
+
+.table-title ul li {
+  margin-left: 40px;
+  padding: 6px 0;
+}
+
+.target ol li {
+  margin-left: 36px;
+  font-size: 1.4rem;
+
+}
 /* footer */
 #footer {
   margin-top: 80px;
